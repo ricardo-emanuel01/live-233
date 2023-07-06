@@ -1,4 +1,4 @@
-# Live #233 --> Typer
+# Live #233 --> [Typer](https://typer.tiangolo.com/)
 
 Typer is a library which helps to create CLI applications, it uses Rich to get 
 prettier prints and Shanningam to know some information about the environment.
